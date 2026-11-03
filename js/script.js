@@ -11,24 +11,19 @@ AOS.init({
 // ===========================
 // Typed.js Animation
 // ===========================
-
+// ===========================
+// Typed.js Animation
+// ===========================
 if (document.getElementById("typing")) {
-
     new Typed("#typing", {
-
         strings: [
-            "SOC L1 Analyst",
-            "Blue Team Enthusiast",
-            "Cybersecurity Student"
+            "Technical Analyst Intern"
         ],
-
         typeSpeed: 70,
         backSpeed: 40,
         backDelay: 1500,
         loop: true
-
     });
-
 }
 
 // ===========================
