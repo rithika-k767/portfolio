@@ -17,6 +17,7 @@ AOS.init({
 if (document.getElementById("typing")) {
     new Typed("#typing", {
         strings: [
+            "Cyber Security Student",
             "Technical Analyst Intern"
         ],
         typeSpeed: 70,
